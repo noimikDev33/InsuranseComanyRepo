@@ -1,0 +1,14 @@
+com.cognizant.claimManagement.InsuranceCompany
+com.cognizant.claimManagement.InsuranceCompany.apiresponse
+com.cognizant.claimManagement.InsuranceCompany.controller
+com.cognizant.claimManagement.InsuranceCompany.DTO
+com.cognizant.claimManagement.InsuranceCompany.entity
+com.cognizant.claimManagement.InsuranceCompany.exceptions
+com.cognizant.claimManagement.InsuranceCompany.logging
+com.cognizant.claimManagement.InsuranceCompany.repo
+com.cognizant.claimManagement.InsuranceCompany.Service
+com.cognizant.claimManagement.InsuranceCompany.Serviceimpl
+com.cognizant.claimManagement.InsuranceCompany.Serviceimpl.Mapper
+com.cognizant.claimManagement.InsuranceCompany.testing.controller
+com.cognizant.claimManagement.InsuranceCompany.testing.entity
+com.cognizant.claimManagement.InsuranceCompany.testing.Serviceimpl
